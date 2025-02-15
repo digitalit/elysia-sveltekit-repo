@@ -4,6 +4,7 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
+		"bun-version": "bun -v",
 		"dev": "bun run --bun vite dev",
 		"build": "bun run --bun vite build",
 		"preview": "vite preview",

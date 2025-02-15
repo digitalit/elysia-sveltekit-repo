@@ -9,4 +9,4 @@ cmds = ['bun install --ignore-scripts']
 cmds = ['bun run build']
 
 [start]
-cmd = 'bun run build/index.js'
+cmd = 'bun ./build/index.js'
